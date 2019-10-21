@@ -16,7 +16,7 @@
     "express-validator": "latest",
     "mongodb": "latest",
     "mongoose": "latest",
-    "morgan": "~1.9.0",
+    "morgan": "~1.9.1",
     "multer": "latest",
     "pug": "2.0.0-beta11",
     "serve-favicon": "~2.4.5",
